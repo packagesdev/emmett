@@ -3,7 +3,7 @@ emmett
 **emmett** is a command line tool to add items to the Dock or remove them from it. 
 
 ## Download
-* [Version 1.0](https://github.com/packagesdev/emmet/archive/master.zip)
+* [Version 1.0](https://codeload.github.com/packagesdev/emmett/zip/master)
 
 ## Usage
 ```$ git clone https://github.com/packagesdev/emmet.git
